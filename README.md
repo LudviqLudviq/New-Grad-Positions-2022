@@ -24,13 +24,13 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 ||[The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | Berkeley | |
 ||[SIG](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Bala Cynwyd, PA | |
 |posted|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | New Analyst (SWE and others)---intern，ng不内推|
-|posted|[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
+|posted-rejected|[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
 ||[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 ||[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
 ||[Five Rings](https://jobs.jobvite.com/fiverings/job/oxvBffwC) | NYC | |
 ||[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions | 
 |posted|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Multiple | SWE Consulting |
-||[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
+|posted|[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
 ||[Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level%5B%5D=Student%20%26%20Recent%20Graduates) | Multiple | |
 ||[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 ||[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
