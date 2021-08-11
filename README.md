@@ -27,7 +27,7 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |posted-rejected|[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
 ||[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 ||[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
-||[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Campus-Hire-Full-Time-Class-of-2022/543) | NYC | |
+|posted|[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Campus-Hire-Full-Time-Class-of-2022/543) | NYC | |
 ||[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions | 
 |posted|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Multiple | SWE Consulting |
 |posted|[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
@@ -55,7 +55,7 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 ||[HubSpot](https://www.hubspot.com/careers/jobs/1847807?hubs_signup-cta=careers-apply) | Cambridge |  |
 ||[Nuro](https://www.nuro.ai/careersitem?gh_jid=3355701) | Mountain View |  |
 ||[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594) | Multiple |  |
-||[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  |
+|posted|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  |
 ||[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?job_type_id%5B%5D=1756&keywords=new+graduate&location%5B%5D=US&posting_org_id%5B%5D=1&posting_team_id%5B%5D=6&posting_team_id%5B%5D=5&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=12&posting_team_id%5B%5D=12&posting_team_id%5B%5D=3&posting_team_id%5B%5D=13&posting_team_id%5B%5D=1&posting_team_id%5B%5D=20&posting_team_id%5B%5D=11&posting_team_id%5B%5D=8&posting_team_id%5B%5D=4&posting_team_id%5B%5D=7&posting_team_id%5B%5D=18&posting_team_id%5B%5D=10&posting_team_id%5B%5D=9&posting_team_id%5B%5D=2) | Natick, MA |  |
-||[PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---Recent-College-Graduate_R0075015) | Multiple Locations |  |
-||[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  |
+|posted|[PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---Recent-College-Graduate_R0075015) | Multiple Locations |  |
+|posted|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  |
