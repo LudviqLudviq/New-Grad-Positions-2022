@@ -25,8 +25,8 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 ||[SIG](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Bala Cynwyd, PA | |
 |posted|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | New Analyst (SWE and others)---intern，ng不内推|
 |posted-rejected|[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
-||[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
-||[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
+|full?|[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
+|posted|[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
 |posted|[Five Rings](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Campus-Hire-Full-Time-Class-of-2022/543) | NYC | |
 ||[Palantir](https://www.palantir.com/careers/) | NYC, Palo Alto, Seattle, London | Multiple SWE Positions | 
 |posted|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Multiple | SWE Consulting |
@@ -64,5 +64,5 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 | |[IBM](https://careers.ibm.com/job/13459877/entry-level-associate-developer-commercial-remote/?codes=JB_EPH_JobBoard2021) | Various | |
 | |[TIBCO Software](https://hrbrg.co/of6nni) | Chicago | SWE Messaging Engineering Team | 
 | |[Stripe](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | | 
-| |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
+|posted |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
 | |[Quora](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science | 
