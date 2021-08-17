@@ -17,7 +17,7 @@ The 2022 Full time grind has begun! Use this repo to share and keep track of any
 |posted|[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF, Remote | |
 |posted|[VMWare](https://careers.vmware.com/new-graduates/jobs/R2111971?lang=en-us) | Palo Alto, Atlanta | University Launch SWE |
 |posted|[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
-||[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
+|posted-refered|[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
 |posted|[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
 |posted|[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
 |posted|[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3261084) | SF | New Graduate: Software Engineering (2022 start)
